@@ -1,7 +1,6 @@
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useState } from "react";
 import "./App.css";
 import React from "react";
-import { PdfPage, readPdfText } from "pdf-text-reader";
 
 function App() {
   const [input, setInput] = useState<string>("");
