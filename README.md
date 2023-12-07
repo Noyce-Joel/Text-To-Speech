@@ -2,7 +2,7 @@
 
 I thought it would be great to create an app that converted text into speech 🙄
 
-A very fun little exercise 🤗
+A very fun exercise 🤗
 
 
 ## Stack
