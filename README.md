@@ -1,8 +1,9 @@
 ## Text To Speech Converter
 
-I thought it would be great to create an app that converted text into speech using an array of mostly obnoxious voices 🙄
+I thought it would be great to create an app that converted text into speech 🙄
 
-This was however a very fun little exercise 🤗
+A very fun little exercise 🤗
+
 
 ## Stack
 
